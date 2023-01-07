@@ -1,5 +1,5 @@
 {
-    "title": "Creative Research",
+    "title": "3D Studio",
     "author": "Michael Collins",
     "language": "en",
     "plugins": [
@@ -12,7 +12,7 @@
     ],
     "pluginsConfig": {
         "github-edit": {
-            "repo": "michael-collins/creative-research-book",
+            "repo": "michael-collins/3d-studio",
             "branch": "master"
         },
         "toolbar": {
@@ -21,13 +21,13 @@
                 {
                     "label": "Download PDF",
                     "icon": "fa fa-file-pdf-o",
-                    "url": "http://michaelcollins.xyz/creative-research-book/exports/creative-research-book.pdf",
+                    "url": "http://michaelcollins.xyz/3d-studio/exports/3d-studio.pdf",
                     "target": "_blank"
                 },
                 {
                     "label": "Download ebook",
                     "icon": "fa fa-book",
-                    "url": "http://michaelcollins.xyz/creative-research-book/exports/creative-research-book.epub",
+                    "url": "http://michaelcollins.xyz/3d-studio/exports/3d-studio.epub",
                     "target": "_blank"
                 }
                 
